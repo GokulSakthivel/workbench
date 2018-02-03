@@ -6,8 +6,8 @@ int main()
 	printf("Enter the Character:");
 	scanf("%c",&c);
 	if((c>='a' && c<='z') || (c>='A' && c<='Z'))
-		printf("%c is a alphabet",c);
+		printf("Alphabet");
 	else
-		printf("%c is not an alphabet",c);
+		printf("No");
 return 0;
 }
