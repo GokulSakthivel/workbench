@@ -14,5 +14,8 @@ class Vowel{
 	            System.out.println("Consonant");
 	        }
 	    }
+	    else{
+	        System.out.println("invalid");
+	    }
 	}
 }
